@@ -1,4 +1,8 @@
 ### Hi there I'm Kimhoooon.👋 <img height=90 src="https://github.com/kimkimhun3/Dark-Portfolio/blob/master/kim.gif"/>
+- 🤔 I’m a BAKA Software Developer.
+- ⚡ Catch me if you kherng
+
+  ---
 <!--
 **kimkimhun3/kimkimhun3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
