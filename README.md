@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkimhun3&layout=compact&theme=dark" />
-
+<img height=90 src="https://raw.githubusercontent.com/kimkimhun3/Dark-Portfolio/master/%F0%9F%8C%99.gif" align="right"/>
