@@ -1,4 +1,4 @@
-### Hi there I'm Kimhoooon.👋 <img height=100 src="https://github.com/kimkimhun3/Dark-Portfolio/blob/master/kim.gif"/>
+## Hi there I'm Kimhoooon.👋 <img height=90 src="https://github.com/kimkimhun3/Dark-Portfolio/blob/master/kim.gif"/>
 <!--
 **kimkimhun3/kimkimhun3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
