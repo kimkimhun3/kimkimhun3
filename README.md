@@ -1,5 +1,6 @@
 ### Hi there I'm Kimhoooon.👋
 
+<img height=100 src="https://github.com/kimkimhun3/Dark-Portfolio/blob/master/kim.gif" />
 <!--
 **kimkimhun3/kimkimhun3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkimhun3&layout=compact&theme=dark" />
-<img height=200 src="https://github.com/kimkimhun3/Dark-Portfolio/blob/master/kim.gif" />
+
