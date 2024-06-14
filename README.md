@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkimhun3&layout=compact&theme=dark" />
 <p align="top"> 
   <img src="https://raw.githubusercontent.com/kimkimhun3/Dark-Portfolio/master/%F0%9F%8C%99.gif" align="right" width="100" height="90" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kimkimhun3&show_icons=true&theme=transparent" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimkimhun3&show_icons=true&theme=transparent" align="top-right" />
 </p>
