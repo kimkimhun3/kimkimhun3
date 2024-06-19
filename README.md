@@ -1,6 +1,6 @@
 ### Hi there I'm Kimhoooon.👋 <img height=90 src="https://github.com/kimkimhun3/Dark-Portfolio/blob/master/kim.gif"/>
 - 🤔 I’m a BAKA Software Developer.
- ⚡ Catch me if you kherng
+- ⚡ Catch me if you kherng
 
   ---
 <!--
